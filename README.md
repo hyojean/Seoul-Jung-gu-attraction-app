@@ -1,6 +1,6 @@
-![초기](https://github.com/user-attachments/assets/a33a5414-6880-41a8-89e7-fdaedc81c257)
-![메인](https://github.com/user-attachments/assets/d6960a24-7581-4be2-81fa-653d8ebc6edf)
-![마커 클릭](https://github.com/user-attachments/assets/96a1cfdf-c45c-4818-a117-ba02f1cd167a)
-![저장 후](https://github.com/user-attachments/assets/00d8e31c-4193-4d16-ab52-0931f66f25da)
-![리스트](https://github.com/user-attachments/assets/a4f85938-8abf-4368-8bc0-089ef2dc0ccc)
-![삭제](https://github.com/user-attachments/assets/2bb61ab4-589e-4311-b641-579a39ace69a)
+<img src="https://github.com/jeanxss/attraction-app/assets/153884787/5bb3c368-a409-468c-96ae-aa5240b6047f" width="350px">
+<img src="https://github.com/jeanxss/attraction-app/assets/153884787/b56fd9a8-60de-44b5-9450-737586bbe650" width="350px">
+<img src="https://github.com/jeanxss/attraction-app/assets/153884787/d7f5a68b-7379-4538-9e89-80934e2cc0b4" width="350px">
+<img src="https://github.com/jeanxss/attraction-app/assets/153884787/d0701df2-e821-4019-90b6-b1e2fcc8ca2d" width="350px">
+<img src="https://github.com/jeanxss/attraction-app/assets/153884787/e3699bf7-6236-4b24-b1f7-84cec8fd5577" width="350px">
+<img src="https://github.com/jeanxss/attraction-app/assets/153884787/1cdcba8d-9b11-43b0-815b-3b86fbb2cd72" width="350px">
