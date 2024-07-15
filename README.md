@@ -1,0 +1,6 @@
+![초기](https://github.com/user-attachments/assets/a33a5414-6880-41a8-89e7-fdaedc81c257)
+![메인](https://github.com/user-attachments/assets/d6960a24-7581-4be2-81fa-653d8ebc6edf)
+![마커 클릭](https://github.com/user-attachments/assets/96a1cfdf-c45c-4818-a117-ba02f1cd167a)
+![저장 후](https://github.com/user-attachments/assets/00d8e31c-4193-4d16-ab52-0931f66f25da)
+![리스트](https://github.com/user-attachments/assets/a4f85938-8abf-4368-8bc0-089ef2dc0ccc)
+![삭제](https://github.com/user-attachments/assets/2bb61ab4-589e-4311-b641-579a39ace69a)
